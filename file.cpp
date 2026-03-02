@@ -3,7 +3,7 @@
 
 struct Data {
     int id;
-    char name[20];
+    char name[100];
     double score;
 };
 
